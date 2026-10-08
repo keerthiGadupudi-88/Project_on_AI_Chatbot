@@ -1,2 +1,3 @@
-streamlit
-Groq API
+
+streamlit==1.50.0
+groq==0.37.0
